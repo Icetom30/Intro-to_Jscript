@@ -1,2 +1,2 @@
-# Intro-to_Jscript:
-Just started off my JavaScript journey. 
+# Zuri-frontend_tasks:
+Everything about frontend projects. 
